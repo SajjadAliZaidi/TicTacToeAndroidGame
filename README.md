@@ -12,7 +12,7 @@ https://www.youtube.com/playlist?list=PLOJRcK346BWJHUzwUs557kHbyA4JnDAfE
 2. Start Android Studio
 3. Select option "Open an existing Android Studio Project". (A File Explorer Window will appear)
 4. Navigate to the folder where this project was cloned
-5. Select the folder "SimpleAndroidRecyclerView" (It will be inside the folder where this repo was cloned)
+5. Select the folder "TicTacToeAndroidGame" (It will be inside the folder where this repo was cloned)
 6. Select "OK" option.
 
 ### (By directly downloading from git version control)
