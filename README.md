@@ -25,3 +25,11 @@ https://www.youtube.com/playlist?list=PLOJRcK346BWJHUzwUs557kHbyA4JnDAfE
 6. Select "Clone" option
 7. After the project is cloned, a dialog box will appear asking you whether you want to open this project or not.
 8. Select "Yes" to open right away
+
+## Screenshots
+
+### 1. Game play
+![alt text](https://github.com/SajjadAliZaidi/TicTacToeAndroidGame/blob/master/screenshots/tic_tac_toe_1.jpg?raw=true)
+
+### 2. X player won
+![alt text](https://github.com/SajjadAliZaidi/TicTacToeAndroidGame/blob/master/screenshots/tic_tac_toe_2.jpg?raw=true)
